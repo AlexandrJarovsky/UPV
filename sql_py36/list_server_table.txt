@@ -1,0 +1,3 @@
+UPV
+d:\SQL\MB_UPV_PYTHON\db\mb_upv.db UPV
+d:\SQL\TEP_PYTHON\db\tep_upv.db UPV

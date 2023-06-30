@@ -1,0 +1,2 @@
+D:\SQL\MB_upv_python\test.txt     MB_UPV_SQL3     D:\SQL\MB_upv_python\start.bat
+D:\SQL\tep_python\test.txt        tep_upv         D:\SQL\tep_python\start.bat
